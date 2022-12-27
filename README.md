@@ -10,7 +10,7 @@ Anyone who wants to fork it and make it better, by all means PLEASE go for it. W
 
 I pretty much stole the idea from [Mikael T](https://community.home-assistant.io/t/palm-springs-theme/103533) and then hacked it up to do what I wanted.
 
-If by some miracle it works it should look like this:![Sample Image](test.jpg)
+If by some miracle it works it should look like this:![Sample Image](sample.jpg)
 
 ## DISCLAIMER
 
